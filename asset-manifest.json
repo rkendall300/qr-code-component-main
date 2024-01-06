@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-code-component-main/static/css/main.33dce59d.css",
+    "main.js": "/qr-code-component-main/static/js/main.f942c8f5.js",
+    "static/media/Outfit-Bold.ttf": "/qr-code-component-main/static/media/Outfit-Bold.b2e2fcd8bc0c090b302c.ttf",
+    "static/media/Outfit-Regular.ttf": "/qr-code-component-main/static/media/Outfit-Regular.e853df41b41bc9489a8b.ttf",
+    "index.html": "/qr-code-component-main/index.html",
+    "main.33dce59d.css.map": "/qr-code-component-main/static/css/main.33dce59d.css.map",
+    "main.f942c8f5.js.map": "/qr-code-component-main/static/js/main.f942c8f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dce59d.css",
+    "static/js/main.f942c8f5.js"
+  ]
+}
